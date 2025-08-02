@@ -10,7 +10,8 @@ It's designed to be minimal, beginner-friendly, and a good practice project for 
  Takes two numeric inputs from the useru
 1. Performs Addition
 2. Performs Subtraction
-3. Performs Multiplication 
+3. Performs Multiplication
+
 4.Performs Division
  (with error handling for divide-by-zero)
 
