@@ -8,11 +8,11 @@ It's designed to be minimal, beginner-friendly, and a good practice project for 
  ●  Features
  
  Takes two numeric inputs from the useru
-1. Performs Addition
-2. Performs Subtraction
-3. Performs Multiplication
+ 1. Performs Addition
+ 2. Performs Subtraction
+ 3. Performs Multiplication
 
-4.Performs Division
+ 4.Performs Division
  (with error handling for divide-by-zero)
 
 ● This project helps you learn and practice: 
